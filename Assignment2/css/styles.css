@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   top: -1px;
-right: -1px;
+  right: -1px;
   border: 1px solid #000000;
   width: 150px;
   text-align: center;
@@ -23,15 +23,15 @@ right: -1px;
   float: right;
 }
 
-h2#chicken{
+h2#chicken {
   background-color: #D69799;
 }
 
-h2#beef{
+h2#beef {
   background-color: #C34145;
 }
 
-h2#sushi{
+h2#sushi {
   background-color: #E5D09E;
 }
 
@@ -52,7 +52,7 @@ p {
   margin-right: auto;
   margin-left: auto;
   margin-top: 40px;
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
 
 /********** Large devices only **********/
@@ -187,7 +187,6 @@ p {
   .col-md-12 {
     width: 100%;
   }
-
 }
 
 /* Small devices */
